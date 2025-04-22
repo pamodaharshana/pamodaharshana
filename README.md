@@ -30,8 +30,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pamodaharshana&theme=dark" alt="pamodaharshana" /></p>
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pamodaharshana&theme=dark" alt="pamodaharshana" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pamodaharshana&show_icons=true&theme=tokyonight&locale=en" alt="pamodaharshana" /></p>
-
----
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pamodaharshana&show_icons=true&theme=tokyonight&locale=en" alt="pamodaharshana" /></p>
