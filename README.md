@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **TicketingDo**
 
+- - 🧑‍🎓 I’m an Undergraduate at **JIAT**
+
 - 🌱 I’m currently learning **OODP with Java**
 
 - 💬 Ask me about **OOPC | Web Development**
